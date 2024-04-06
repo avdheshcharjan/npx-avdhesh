@@ -1,14 +1,14 @@
 {
-  "name": "natterstefan",
+  "name": "avdhesh",
   "version": "1.3.0",
   "description": "Stefan Natter (@natterstefan)'s business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "natterstefan": "bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/natterstefan/businesscard.git"
+    "url": "git+https://github.com/natterstefan/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -17,7 +17,12 @@
   "author": "Stefan Natter",
   "license": "MIT",
   "dependencies": {
+    "avdhesh": "^1.3.0",
     "boxen": "^5.0.0",
     "chalk": "^4.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/natterstefan/businesscard/issues"
+  },
+  "homepage": "https://github.com/natterstefan/businesscard#readme"
 }
