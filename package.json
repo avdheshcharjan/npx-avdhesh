@@ -1,6 +1,6 @@
 {
   "name": "avdhesh",
-  "version": "1.3.1",
+  "version": "1.3.0",
   "description": "Avdhesh Charjan's business card",
   "main": "./bin/card.js",
   "bin": {
@@ -17,7 +17,7 @@
   "author": "Avdhesh Charjan",
   "license": "MIT",
   "dependencies": {
-    "avdhesh": "^1.3.2",
+    "avdhesh": "^1.3.0",
     "boxen": "^5.0.0",
     "chalk": "^4.1.0"
   },
