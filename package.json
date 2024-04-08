@@ -1,10 +1,10 @@
 {
-  "name": "avu",
+  "name": "avdhesh",
   "version": "1.4.0",
   "description": "Avdhesh Charjan's business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "bin/card.js"
+    "avdhesh": "bin/card.js"
   },
   "repository": {
     "type": "git",
